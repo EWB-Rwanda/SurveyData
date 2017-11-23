@@ -1,4 +1,4 @@
-# Survey Data
+# The Purpose
 Analyzing survey data from surveys handed out to communities in Rwanda.  The data is to help EWB-CU Rwanda understand our impact in the community and how to better work with and understand the needs of those communities.
 
 
